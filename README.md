@@ -12,7 +12,8 @@ This assignment aims to familiarize you with the tools and configurations necess
  Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
  
 Windows installation.
-[text](<../../Downloads/windows 11 install.pdf>)
+https://www.microsoft.com/software-download/windows11 
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/080280b3-58dd-436c-a67e-cbec2fa82873)
 
 Step 1 - Formating the drive and set the primary partition as active.
 
@@ -47,14 +48,18 @@ In this process, we will install Python 3.12.4 on ourWindows operating system. W
 [text](<../../Downloads/python install.pdf>)
 
 Step - 2: Click on the Install Now
-[text](<../../Downloads/p install.pdf>)
+
 Double-click the executable file, which is downloaded;
 the following window will open.
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/49642d84-1fc6-4d63-ae32-23b62839aba8)
 
 Select Customize installation and proceed.
 Click on the Add Path check box, it will set the Python path automatically.
 
 Step - 3 Installation in Process
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/2ac564a9-252f-463b-be08-294e1081684a)
+
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/adda4019-c25d-4011-9f0d-44c7ac327568)
 
 7. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
@@ -65,9 +70,6 @@ Go to the MySQL 5.7 download page.
 Choose the appropriate version:
 
 Click "Download" and follow the instructions to save the installer file.
-I got an error at first, but later I was able to navigate.
-![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/0bfebe3a-c96c-45be-b1a6-f22d14db9b8b)
-
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/e03e1c28-2d01-4701-8ae7-b9fea382b255)
 
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/4eb4a5ca-b1e6-44a7-9323-9ce7604f5ca9)
@@ -75,6 +77,11 @@ I got an error at first, but later I was able to navigate.
 
 ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/a79277bf-8914-4e98-b0c2-9afb360b1e33)
 
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/afe61521-f6b7-4c47-99bb-274145977864)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/40e55b92-a87c-4860-942e-cfdaac69b78c)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/ec4b4661-8087-422f-9a40-4b62205cf5b1)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/608d109a-8dcc-4ed7-8599-267a884181b8)
+![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/cfd31487-9004-4196-ae67-0557f376b0e4)
 Run the downloaded MSI installer and follow the installation wizard to complete the setup.
 
 9. Set Up Development Environments and Virtualization (Optional):
@@ -82,7 +89,11 @@ Run the downloaded MSI installer and follow the installation wizard to complete 
 
    Downloading Docker
    Step 1
+   Download Docker from by visiting Docker website.
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/9efa7925-0b14-4e62-8342-56580705158a)
 
+   Sign in
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Auraliah/assets/171556090/1eb8955f-7322-41e1-b697-1b2409ff57d2)
 
 
 
